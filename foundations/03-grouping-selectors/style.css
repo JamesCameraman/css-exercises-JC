@@ -1,0 +1,18 @@
+/* universal styling */
+
+.click1,
+.click2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* specific styling */
+
+.click1 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.click2 {
+    background-color: #d0c11b
+}
