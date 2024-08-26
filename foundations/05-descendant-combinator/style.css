@@ -1,0 +1,5 @@
+/* add yellow background to "class" descendants in div */
+div .text {
+    background-color: #ffea00;
+
+}
