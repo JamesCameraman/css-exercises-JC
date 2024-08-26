@@ -1,5 +1,7 @@
 /* add yellow background to "class" descendants in div */
 div .text {
     background-color: #ffea00;
-
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
 }
